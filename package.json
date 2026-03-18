@@ -2,7 +2,7 @@
   "name": "testprep-school-presentation",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://mazen-alhammoud.github.io/testprep-school-presentation",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
