@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testprep-school-presentation/static/css/main.aa50b698.css",
+    "main.js": "/testprep-school-presentation/static/js/main.b160ac3a.js",
+    "static/media/IMG_6521.jpg": "/testprep-school-presentation/static/media/IMG_6521.ec6ff4268f160bf99552.jpg",
+    "static/media/IMG_0440.JPG": "/testprep-school-presentation/static/media/IMG_0440.98e663ce803c3f7f4126.JPG",
+    "static/media/IMG_0438.JPG": "/testprep-school-presentation/static/media/IMG_0438.0779caaf55b136de5b25.JPG",
+    "static/media/IMG_0451.JPG": "/testprep-school-presentation/static/media/IMG_0451.09a9f20d0c4f23cc55b4.JPG",
+    "static/media/IMG_4976.jpg": "/testprep-school-presentation/static/media/IMG_4976.c6c19f7ff9c0e2398ea5.jpg",
+    "static/media/IMG_5004.jpg": "/testprep-school-presentation/static/media/IMG_5004.f46396209afeecbc8548.jpg",
+    "static/media/screenshot_student_2.png": "/testprep-school-presentation/static/media/screenshot_student_2.6e57a21f2289302c4412.png",
+    "static/media/screenshot_student_1.png": "/testprep-school-presentation/static/media/screenshot_student_1.9a2c2d218bb16e9e6295.png",
+    "static/media/logo_on_white.svg": "/testprep-school-presentation/static/media/logo_on_white.f0b4fc644846b56ee47a6a8f1d11bfaa.svg",
+    "static/media/design_element.svg": "/testprep-school-presentation/static/media/design_element.1c481ad6096edac8e653c5bfd8484c2a.svg",
+    "index.html": "/testprep-school-presentation/index.html",
+    "main.aa50b698.css.map": "/testprep-school-presentation/static/css/main.aa50b698.css.map",
+    "main.b160ac3a.js.map": "/testprep-school-presentation/static/js/main.b160ac3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa50b698.css",
+    "static/js/main.b160ac3a.js"
+  ]
+}
